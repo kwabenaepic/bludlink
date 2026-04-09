@@ -52,6 +52,8 @@
   text-decoration: none;
   color: var(--white);
   transition: all 0.25s;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .storeBtn:hover {
