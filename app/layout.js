@@ -14,11 +14,11 @@ const dmSans = DM_Sans({
 })
 
 export const metadata = {
-  title: 'BloodLink — Save Lives Across Ghana',
-  description: 'BloodLink connects hospitals with eligible blood donors within 50km in real time. When lives are on the line, every minute matters.',
-  keywords: 'blood donor Ghana, blood bank Accra, emergency blood, BloodLink',
+  title: 'BludLink — Save Lives Across Ghana',
+  description: 'BludLink connects hospitals with eligible blood donors within 50km in real time. When lives are on the line, every minute matters.',
+  keywords: 'blood donor Ghana, blood bank Accra, emergency blood, BludLink',
   openGraph: {
-    title: 'BloodLink — Save Lives Across Ghana',
+    title: 'BludLink — Save Lives Across Ghana',
     description: 'Find blood donors instantly. Built for Ghana.',
     type: 'website',
   },

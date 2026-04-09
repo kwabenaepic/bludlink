@@ -16,7 +16,7 @@ export default function Hero() {
           instantly.
         </h1>
         <p className={styles.sub}>
-          BloodLink connects hospitals with eligible blood donors within 50km — in real time. When lives are on the line, every minute matters.
+          BludLink connects hospitals with eligible blood donors within 50km — in real time. When lives are on the line, every minute matters.
         </p>
         <div className={styles.actions}>
           <a href="#download" className={styles.btnPrimary}>

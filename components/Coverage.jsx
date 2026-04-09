@@ -15,7 +15,7 @@ export default function Coverage() {
           <div className={styles.label}>Coverage</div>
           <h2 className={styles.title}>All 16 regions<br />of Ghana</h2>
           <p className={styles.sub}>
-            From Greater Accra to Upper West — BloodLink works wherever you are.
+            From Greater Accra to Upper West — BludLink works wherever you are.
             Our PostGIS matching finds the closest compatible donor to every hospital.
           </p>
           <div className={styles.pills}>

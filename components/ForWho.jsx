@@ -8,7 +8,7 @@ export default function ForWho() {
         <div className={styles.header}>
           <div className={styles.label}>Built for everyone</div>
           <h2 className={styles.title}>Whether you give<br />or receive</h2>
-          <p className={styles.sub}>BloodLink serves two sides of the same life-saving mission.</p>
+          <p className={styles.sub}>BludLink serves two sides of the same life-saving mission.</p>
         </div>
       </RevealWrapper>
       <RevealWrapper delay={100}>

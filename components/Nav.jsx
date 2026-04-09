@@ -16,7 +16,7 @@ export default function Nav() {
     <nav className={`${styles.nav} ${scrolled ? styles.navScrolled : ''}`}>
       <Link href="/" className={styles.logo}>
         <div className={styles.logoDrop} />
-        <span className={styles.logoText}>BloodLink</span>
+        <span className={styles.logoText}>BludLink</span>
       </Link>
       <ul className={styles.links}>
         <li><a href="#how">How it works</a></li>

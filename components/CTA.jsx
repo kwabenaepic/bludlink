@@ -6,7 +6,7 @@ export default function CTA() {
     <section className={styles.section} id="download">
       <RevealWrapper>
         <h2 className={styles.title}>
-          Download BloodLink.<br />Start saving lives today.
+          Download BludLink.<br />Start saving lives today.
         </h2>
         <p className={styles.sub}>Available on Android. Free for donors and hospitals.</p>
         <div className={styles.buttons}>
